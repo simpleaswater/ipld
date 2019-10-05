@@ -1,0 +1,29 @@
+{
+  "name": "publication_using_ipld",
+  "version": "1.0.0",
+  "description": "SimpleAsWater Tutorial - Building Online Publication using IPLD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleaswater/ipld.git"
+  },
+  "keywords": [
+    "ipld",
+    "simpleaswater",
+    "tutorial",
+    "ipfs"
+  ],
+  "author": "Vaibhav Saini (hi@simpleaswater.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpleaswater/ipld/issues"
+  },
+  "homepage": "https://github.com/simpleaswater/ipld#readme",
+  "dependencies": {
+    "cids": "^0.7.1",
+    "ipfs-http-client": "^38.1.0"
+  }
+}
