@@ -26,7 +26,7 @@ async function addNewAuthor(name) {
     //creating blog author object
     var newAuthor = await ipfs.dag.put({
         name: name,
-        profile: "Entrepreneur | @SimpleAsWater | @TowardsBlockChain, an MIT CIC incubated startup | Speaker | https://vaibhavsaini.com"
+        profile: "@SimpleAsWater | @TowardsBlockChain, an MIT CIC incubated startup | https://vaibhavsaini.com"
     });
 
     console.log("Added new Author " + name + ": " + newAuthor);
