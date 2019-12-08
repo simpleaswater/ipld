@@ -1,6 +1,6 @@
 ### SimpleAsWater Tutorial - Online Publication on IPLD
 
-In [this tutorial](https://simpleaswater.com/ipfs/tutorials/online_publishing_using_ipld), we will go through:
+In [this tutorial](https://simpleaswater.com/chat-using-libp2p/), we will go through:
 
 - Understanding IPLD
 - Creating an IPLD node
